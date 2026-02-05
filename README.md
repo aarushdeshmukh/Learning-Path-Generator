@@ -19,7 +19,7 @@ SQLite (for database)
 scikit-learn (for machine learning)
 NumPy
 Installation
-Clone the repository: git clone https://github.com/Hrishikesh-Hushe/LearningPathGenerator.git
+Clone the repository: git clone https://github.com/aarushdeshmukh/LearningPathGenerator.git
 Navigate to the folder: cd LearningPathGenerator
 Install dependencies: pip install -r requirements.txt
 Run the app: python learning_path.py
@@ -29,7 +29,7 @@ Enter your goal (e.g., "machine learning").
 Get a recommended path and complexity score.
 Example Output
 Author
-Name: [Hrishikesh Hushe]
+Name: [Aarush Deshmukh]
 College Year: [3rd Year]
 License
 This project is open-source. Feel free to contribute!
