@@ -2,7 +2,7 @@
 
 2: .gitignore (Ignores unnecessary files like database or cache) pycache/ *.pyc learning_graph.db .DS_Store
 
-4:
+3:
 
 AI-Driven Personalized Learning Path Generator
 Overview
