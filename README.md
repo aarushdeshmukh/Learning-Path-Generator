@@ -1,6 +1,6 @@
 1: Requirements.txt (List of libraries - numpy , pip , scikit-learn numpy )
 
-2: .gitignore (Ignores unnecessary files like database or cache) pycache/ *.pyc learning_graph.db .DS_Store
+2: .gitignore  ( pycache/ *.pyc learning_graph.db .DS_Store )
 
 3:
 
