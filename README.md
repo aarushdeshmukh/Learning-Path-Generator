@@ -1,4 +1,4 @@
-1: Requirements.txt (Lists libraries for easy installation) scikit-learn numpy
+1: Requirements.txt (List of libraries - numpy , pip , scikit-learn numpy )
 
 2: .gitignore (Ignores unnecessary files like database or cache) pycache/ *.pyc learning_graph.db .DS_Store
 
